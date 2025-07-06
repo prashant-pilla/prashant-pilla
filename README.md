@@ -9,7 +9,7 @@
 # 💫 About Me:
 
 🔭 I’m currently working on  
-A biometric-based, on-chain identity system to verify real contributions in code—solving the credibility gap in hiring with provable, non-transferable work history.
+A biometric-based, on-chain identity system to verify real contributions in code, solving the credibility gap in hiring with provable, non-transferable work history.
 
 👯 I’m looking to collaborate on  
 Early-stage AI/Web3 tools, DAO infrastructure, hackathons, and bold ideas that blend real-world impact with emerging tech.
@@ -24,11 +24,11 @@ How to scale AI-first UI systems, integrate ZK-SNARKs for identity verification,
 Full-stack prototyping, building with LLMs, dockerizing drone simulations, or shipping MVPs in insane timelines.
 
 ⚡ Fun facts
-* I deployed a crypto payment platform in 36 hours, published deep learning research on the S&P 500, and built a drone simulator—just for fun.
+* I deployed a crypto payment platform in 36 hours, published deep learning research on the S&P 500, and built a drone simulator, just for fun.
 
-  I became one of the youngest internationally certified yoga instructors at 17.
+* I became one of the youngest internationally certified yoga instructors at 17.
 
-  Born in New Zealand, I’ve now visited over 15 countries, always chasing culture, people, and perspective along the way.
+* Born in New Zealand, I’ve now visited over 15 countries, always chasing culture, people, and perspective along the way.
 
 ---
 
@@ -38,7 +38,7 @@ Full-stack prototyping, building with LLMs, dockerizing drone simulations, or sh
 - 🪙 **Web3 Builder**: Finalist @ Colosseum Hackathon | Shipped a Next.js + AI crypto dashboard → [Tabi](https://tabi-eight.vercel.app/)  
 - 📦 **Ops-Ready Developer**: Built and deployed a Dockerized multi-drone simulation → [DockerHub](https://hub.docker.com/r/prashantpilla/gopher-drone-sim)  
 - ✨ **Frontend that Delivers**: Designed and implemented production-ready UIs with Next.js, Tailwind, Framer Motion, and Radix UI  
-- 📈 **Product Thinking**: I don’t just build what’s scoped—I ask how it scales, who it helps, and how to make it invisible and delightful
+- 📈 **Product Thinking**: I don’t just build what’s scoped - I ask how it scales, who it helps, and how to make it invisible and delightful
 
 ---
 
