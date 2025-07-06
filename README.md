@@ -1,6 +1,6 @@
 <!-- Typing animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=130&lines=Hey%2C+I'm+Prashant+Pilla!;I+build+at+the+intersection+of+AI+and+Web3.;Engineer.+Researcher.+Maker.+Builder.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hey%2C+I'm+Prashant+Pilla!;I+build+at+the+intersection+of+AI+and+Web3.;Engineer.+Researcher.+Maker.+Builder.">
 </h1>
 
 ---
@@ -49,8 +49,7 @@ Full-stack prototyping, building with LLMs, dockerizing drone simulations, or sh
 
 ## 📄 Portfolio & Resume
 
-- 🧠 [Personal Portfolio](https://tabi-eight.vercel.app/)
-- 📄 [View Resume (PDF)](https://github.com/prashant-pilla/Resume/blob/main/PrashantPilla_Resume.pdf)
+- 📄 [View My Resume](https://github.com/prashant-pilla/prashant-pilla/blob/main/Prashant%20Pilla%20Resume%20W3.pdf)
 
 ---
 
@@ -72,8 +71,6 @@ Full-stack prototyping, building with LLMs, dockerizing drone simulations, or sh
 - Startups where builders ship, own, and iterate fast
 
 📫 Reach me → [pilla146@umn.edu](mailto:pilla146@umn.edu)
-
----
 
 ---
 [![](https://visitcount.itsvg.in/api?id=prashant-pilla&icon=5&color=7)](https://visitcount.itsvg.in)
