@@ -58,7 +58,7 @@ Full-stack prototyping, building with LLMs, dockerizing drone simulations, or sh
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=prashant-pilla&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-pilla&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-pilla&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)-->
 
 ### ✍️ Quotes That Drive Me:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
