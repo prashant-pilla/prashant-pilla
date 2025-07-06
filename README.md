@@ -43,7 +43,7 @@ Full-stack prototyping, building with LLMs, dockerizing drone simulations, or sh
 ---
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/238298781764812800) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prashant.pailla) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashant-pilla) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pilla146) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abstruderex) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pilla146@umn.edu) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/238298781764812800) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prashant.pailla) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashant-pilla) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pilla146) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abstruderex) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pilla146@umn.edu) 
 
 ---
 
