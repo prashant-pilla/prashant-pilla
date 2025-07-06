@@ -24,7 +24,7 @@ How to scale AI-first UI systems, integrate ZK-SNARKs for identity verification,
 Full-stack prototyping, building with LLMs, dockerizing drone simulations, or shipping MVPs in insane timelines.
 
 ⚡ Fun facts
-  I deployed a crypto payment platform in 36 hours, published deep learning research on the S&P 500, and built a drone simulator—just for fun.
+* I deployed a crypto payment platform in 36 hours, published deep learning research on the S&P 500, and built a drone simulator—just for fun.
 
   I became one of the youngest internationally certified yoga instructors at 17.
 
