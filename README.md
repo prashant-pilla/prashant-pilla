@@ -32,14 +32,14 @@ Full-stack prototyping, building with LLMs, dockerizing drone simulations, or sh
 
 ---
 
-## 🏆 Highlights That Make Me Hireable
+## 🏆 Professional Highlights
 
 - 🚀 **AI Engineer @ Tribute Labs**: Built production AI systems for institutional investors and Fortune 100 clients, delivering end-to-end solutions spanning RAG, cloud infrastructure, and agentic workflows
-- 💡 **Deep Learning Researcher**: Published S&P 500 prediction models using LSTM & ARIMA → [arXiv](https://arxiv.org/abs/2501.17366)
-- 🏛️ **Palantir Foundry Certified**: Earned Foundry Aware certification covering ontology-driven application development, enterprise data modeling, and operational workflow design → [View Credential](https://verify.skilljar.com/c/5ajaegdfz82d) 
+- 🏛️ **Palantir Foundry Certified**: Earned Foundry Aware certification covering ontology-driven application development, enterprise data modeling, and operational workflow design → [View Credential](https://verify.skilljar.com/c/5ajaegdfz82d)
+- 💡 **Deep Learning Researcher**: Published S&P 500 prediction models using LSTM & ARIMA → [arXiv](https://arxiv.org/abs/2501.17366) 
 - 🪙 **Web3 Builder**: Finalist @ Colosseum Hackathon | Shipped a Next.js + AI crypto dashboard → [Tabi](https://tabi-eight.vercel.app/)  
 - 📦 **Ops-Ready Developer**: Built and deployed a Dockerized multi-drone simulation → [DockerHub](https://hub.docker.com/r/prashantpilla/gopher-drone-sim)  
-- ✨ **Frontend that Delivers**: Designed and implemented production-ready UIs with Next.js, Tailwind, Framer Motion, and Radix UI  
+- 🏗️ **Systems Builder**: Designed production AI pipelines, vector database architectures, cloud-native deployments, and distributed application workflows  
 - 📈 **Product Thinking**: I don’t just build what’s scoped - I ask how it scales, who it helps, and how to make it invisible and delightful
 
 ---
@@ -61,7 +61,7 @@ The most interesting work happens where customer needs, data, and software archi
 
 ## 📄 Professional Profile
 
-- 📄 [Current Resume]
+- 📄 [Current Resume](Prashant_Pilla_Resume.pdf)
 - 🏛️ [Palantir Foundry Aware Certified](https://verify.skilljar.com/c/5ajaegdfz82d)
 - 🔬 [Published Research: S&P 500 Forecasting using Deep Learning](https://arxiv.org/abs/2501.17366)
 - 💼 AI Engineer @ Tribute Labs
@@ -81,9 +81,12 @@ The most interesting work happens where customer needs, data, and software archi
 ## 📬 Want to work with me?
 
 **I’m currently open to**:
-- Full-time roles in **AI engineering**, **Web3 product development**, or **devtool design**
-- **Research-backed product teams** solving high-leverage problems with smart people
-- Startups where builders ship, own, and iterate fast
+Full-time roles in:
+- AI Engineering
+- Software Engineering
+- Forward Deployed Engineering
+- Solutions Engineering
+- Developer Infrastructure
 
 📫 Reach me → [pilla146@umn.edu](mailto:pilla146@umn.edu)
 
