@@ -9,7 +9,7 @@
 # 💫 About Me:
 
 🔭 I’m currently working on  
-A biometric-based, on-chain identity system to verify real contributions in code, solving the credibility gap in hiring with provable, non-transferable work history.
+AI-powered systems at the intersection of enterprise data, agentic workflows, and developer productivity. I’m also exploring verifiable identity systems and on-chain reputation frameworks for the future of hiring.
 
 👯 I’m looking to collaborate on  
 Early-stage AI/Web3 tools, DAO infrastructure, hackathons, and bold ideas that blend real-world impact with emerging tech.
@@ -34,11 +34,23 @@ Full-stack prototyping, building with LLMs, dockerizing drone simulations, or sh
 
 ## 🏆 Highlights That Make Me Hireable
 
-- 💡 **Deep Learning Researcher**: Published S&P 500 prediction models using LSTM & ARIMA → [arXiv](https://arxiv.org/abs/2501.17366)  
+- 🚀 **AI Engineer @ Tribute Labs**: Built production AI systems for institutional investors and Fortune 100 clients, delivering end-to-end solutions spanning RAG, cloud infrastructure, and agentic workflows
+- 💡 **Deep Learning Researcher**: Published S&P 500 prediction models using LSTM & ARIMA → [arXiv](https://arxiv.org/abs/2501.17366)
+- 🏛️ **Palantir Foundry Certified**: Earned Foundry Aware certification covering ontology-driven application development, enterprise data modeling, and operational workflow design → [View Credential](https://verify.skilljar.com/c/5ajaegdfz82d) 
 - 🪙 **Web3 Builder**: Finalist @ Colosseum Hackathon | Shipped a Next.js + AI crypto dashboard → [Tabi](https://tabi-eight.vercel.app/)  
 - 📦 **Ops-Ready Developer**: Built and deployed a Dockerized multi-drone simulation → [DockerHub](https://hub.docker.com/r/prashantpilla/gopher-drone-sim)  
 - ✨ **Frontend that Delivers**: Designed and implemented production-ready UIs with Next.js, Tailwind, Framer Motion, and Radix UI  
 - 📈 **Product Thinking**: I don’t just build what’s scoped - I ask how it scales, who it helps, and how to make it invisible and delightful
+
+---
+
+## ⚙️ What Excites Me
+
+I love roles that sit between engineering, product, and users.
+
+Whether it's building AI systems for institutional investors, designing workflows in Palantir Foundry, or rapidly shipping prototypes, I enjoy translating ambiguous business problems into working technical solutions.
+
+The most interesting work happens where customer needs, data, and software architecture meet.
 
 ---
 
@@ -47,9 +59,12 @@ Full-stack prototyping, building with LLMs, dockerizing drone simulations, or sh
 
 ---
 
-## 📄 Portfolio & Resume
+## 📄 Professional Profile
 
-- 📄 [View My Resume](https://github.com/prashant-pilla/prashant-pilla/blob/main/Prashant%20Pilla%20Resume%20W3.pdf)
+- 📄 [Current Resume]
+- 🏛️ [Palantir Foundry Aware Certified](https://verify.skilljar.com/c/5ajaegdfz82d)
+- 🔬 [Published Research: S&P 500 Forecasting using Deep Learning](https://arxiv.org/abs/2501.17366)
+- 💼 AI Engineer @ Tribute Labs
 
 ---
 
