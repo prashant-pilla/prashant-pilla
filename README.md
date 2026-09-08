@@ -1,96 +1,53 @@
-<!-- Typing animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=885&height=120&lines=Hey%2C+I'm+Prashant+Pilla!;I+build+at+the+intersection+of+AI,+Web3,+and+finance.;Engineer.+Researcher.+Maker.+Builder.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=885&height=100&lines=Hey%2C+I'm+Prashant+Pilla.;I+build+at+the+intersection+of+AI+and+finance.">
 </h1>
 
----
-
-
-# 💫 About Me:
-
-🔭 I’m currently working on  
-AI-powered systems at the intersection of enterprise data, agentic workflows, and developer productivity. I’m also exploring verifiable identity systems and on-chain reputation frameworks for the future of hiring.
-
-👯 I’m looking to collaborate on  
-Early-stage AI/Web3 tools, DAO infrastructure, hackathons, and bold ideas that blend real-world impact with emerging tech.
-
-🤝 I’m looking for help with  
-zk-proof design patterns, biometric UX for decentralized identity, and designing open protocols around verifiable developer history.
-
-🌱 I’m currently learning  
-How to scale AI-first UI systems, integrate ZK-SNARKs for identity verification, and optimize Next.js/TypeScript architectures.
-
-💬 Ask me about  
-Full-stack prototyping, building with LLMs, dockerizing drone simulations, or shipping MVPs in insane timelines.
-
-⚡ Fun facts
-* I deployed a crypto payment platform in 36 hours, published deep learning research on the S&P 500, and built a drone simulator, just for fun.
-
-* I became one of the youngest internationally certified yoga instructors at 17.
-
-* Born in New Zealand, I’ve now visited over 15 countries, always chasing culture, people, and perspective along the way.
+<p align="center">
+  Engineer · CS @ UMN · Previously AI @ Tribute Labs<br/>
+  Grounded LLM systems, markets tooling, and on-chain products.<br/>
+  <a href="mailto:pilla146@umn.edu">pilla146@umn.edu</a> ·
+  <a href="https://linkedin.com/in/prashant-pilla">LinkedIn</a> ·
+  <a href="https://github.com/prashant-pilla/prashant-pilla/blob/main/Prashant_Pilla_Resume.pdf">Resume</a> ·
+  <a href="https://arxiv.org/abs/2501.17366">arXiv</a>
+</p>
 
 ---
 
-## 🏆 Professional Highlights
+I like work that sits between a messy real-world problem and a system someone can actually run. Most recently that has meant production RAG and agentic workflows for institutional investors; on my own time it looks like credit memos that refuse to invent a multiple, LLM paper-trading arenas, and Solana payments you can ship in a weekend.
 
-- 🚀 **AI Engineer @ Tribute Labs**: Built production AI systems for institutional investors and Fortune 100 clients, delivering end-to-end solutions spanning RAG, cloud infrastructure, and agentic workflows
-- 🏛️ **Palantir Foundry Certified**: Earned Foundry Aware certification covering ontology-driven application development, enterprise data modeling, and operational workflow design → [View Credential](https://verify.skilljar.com/c/5ajaegdfz82d)
-- 💡 **Deep Learning Researcher**: Published S&P 500 prediction models using LSTM & ARIMA → [arXiv](https://arxiv.org/abs/2501.17366) 
-- 🪙 **Web3 Builder**: Finalist @ Colosseum Hackathon | Shipped a Next.js + AI crypto dashboard → [Tabi](https://tabi-eight.vercel.app/)  
-- 📦 **Ops-Ready Developer**: Built and deployed a Dockerized multi-drone simulation → [DockerHub](https://hub.docker.com/r/prashantpilla/gopher-drone-sim)  
-- 🏗️ **Systems Builder**: Designed production AI pipelines, vector database architectures, cloud-native deployments, and distributed application workflows  
-- 📈 **Product Thinking**: I don’t just build what’s scoped - I ask how it scales, who it helps, and how to make it invisible and delightful
+## Featured work
 
----
+These are the pins. Each line is what the repo *is*, not the event it came from.
 
-## ⚙️ What Excites Me
+| Project | What it is |
+| --- | --- |
+| [**Citework**](https://github.com/prashant-pilla/citework) | One-page investment-committee memos. The model extracts; Python does the math; a human approves before prose exists. |
+| [**Tabi**](https://github.com/prashant-pilla/tabi) | Solana app for USDC/SOL payments, group bill-splitting, and an AI advisor on your wallet. [Live](https://tabi-eight.vercel.app/). Colosseum Breakout finalist. |
+| [**open-verse**](https://github.com/prashant-pilla/open-verse) | LLM agents compete at paper trading (Alpaca / Binance testnet), with an orchestrator, leaderboard, and dashboard. |
+| [**Tribute-UI**](https://github.com/prashant-pilla/Tribute-UI) | Next.js marketing site for ADIN, an AI-first venture DAO — investors, members, and founders. [Live](https://tribute-ui-alpha.vercel.app). |
 
-I love roles that sit between engineering, product, and users.
+## Selected highlights
 
-Whether it's building AI systems for institutional investors, designing workflows in Palantir Foundry, or rapidly shipping prototypes, I enjoy translating ambiguous business problems into working technical solutions.
+- **AI engineer (Tribute Labs)** — production systems for institutional investors and large clients: RAG, cloud, agentic workflows
+- **Palantir Foundry Aware** — ontology-driven apps and operational workflows → [credential](https://verify.skilljar.com/c/5ajaegdfz82d)
+- **Research** — S&P 500 forecasting with LSTM and ARIMA → [arXiv:2501.17366](https://arxiv.org/abs/2501.17366)
+- **Ops** — Dockerized multi-drone simulation → [Docker Hub](https://hub.docker.com/r/prashantpilla/gopher-drone-sim)
 
-The most interesting work happens where customer needs, data, and software architecture meet.
+## Stack I actually ship with
 
----
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/238298781764812800) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prashant.pailla) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashant-pilla) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pilla146) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abstruderex) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pilla146@umn.edu) 
+Python and TypeScript for product. Palantir Foundry when the problem is an enterprise ontology. PyTorch when it is a paper.
 
----
+## Open to
 
-## 📄 Professional Profile
+Full-time: AI engineering, software engineering, forward-deployed / solutions engineering.
 
-- 📄 [Current Resume](Prashant_Pilla_Resume.pdf)
-- 🏛️ [Palantir Foundry Aware Certified](https://verify.skilljar.com/c/5ajaegdfz82d)
-- 🔬 [Published Research: S&P 500 Forecasting using Deep Learning](https://arxiv.org/abs/2501.17366)
-- 💼 AI Engineer @ Tribute Labs
-
----
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=prashant-pilla&theme=dark&hide_border=true)<br/>
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-pilla&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)-->
-
-### ✍️ Quotes That Drive Me:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 📬 Want to work with me?
-
-**I’m currently open to**:
-Full-time roles in:
-- AI Engineering
-- Software Engineering
-- Forward Deployed Engineering
-- Solutions Engineering
-- Developer Infrastructure
-
-📫 Reach me → [pilla146@umn.edu](mailto:pilla146@umn.edu)
-
----
-[![](https://visitcount.itsvg.in/api?id=prashant-pilla&icon=5&color=7)](https://visitcount.itsvg.in)
-
-<!-- Built with 💡 by Prashant Pilla -->
+📫 [pilla146@umn.edu](mailto:pilla146@umn.edu) · [LinkedIn](https://linkedin.com/in/prashant-pilla) · [X](https://x.com/abstruderex)
