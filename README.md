@@ -1,6 +1,6 @@
 <!-- Typing animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=885&height=120&lines=Hey%2C+I'm+Prashant+Pilla!;I+build+at+the+intersection+of+AI,+Web3,+and+finance.;Engineer.+Researcher.+Maker.+Builder.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=885&height=120&lines=Hey%2C+I'm+Prashant+Pilla!;I+build+AI+systems+for+finance.;Engineer.+Researcher.+Maker.+Builder.">
 </h1>
 
 ---
@@ -8,23 +8,23 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on  
-AI-powered systems at the intersection of enterprise data, agentic workflows, and developer productivity. I’m also exploring verifiable identity systems and on-chain reputation frameworks for the future of hiring.
+🔭 I’m working on  
+AI systems that have to survive contact with real money: an insurance-claims agent harness where a deterministic controller enforces the procedure, Citework for grounded investment memos, and open-verse, an arena for LLM trading agents on paper markets. More at [prashantpilla.com](https://prashantpilla.com).
 
 👯 I’m looking to collaborate on  
-Early-stage AI/Web3 tools, DAO infrastructure, hackathons, and bold ideas that blend real-world impact with emerging tech.
+Early-stage AI tools for finance, agent infrastructure, hackathons, and bold ideas that blend real-world impact with emerging tech.
 
 🤝 I’m looking for help with  
-zk-proof design patterns, biometric UX for decentralized identity, and designing open protocols around verifiable developer history.
+Evaluating LLM agents against real procedures, and market-data infrastructure for paper-trading arenas.
 
 🌱 I’m currently learning  
-How to scale AI-first UI systems, integrate ZK-SNARKs for identity verification, and optimize Next.js/TypeScript architectures.
+How to make LLM agents auditable in production, and how to get more out of Next.js/TypeScript architectures.
 
 💬 Ask me about  
 Full-stack prototyping, building with LLMs, dockerizing drone simulations, or shipping MVPs in insane timelines.
 
 ⚡ Fun facts
-* I deployed a crypto payment platform in 36 hours, published deep learning research on the S&P 500, and built a drone simulator, just for fun.
+* I shipped a Solana payments MVP in under 48 hours (Colosseum Breakout finalist), published deep learning research on the S&P 500, and built a drone simulator, just for fun.
 
 * I became one of the youngest internationally certified yoga instructors at 17.
 
@@ -34,7 +34,7 @@ Full-stack prototyping, building with LLMs, dockerizing drone simulations, or sh
 
 ## 🏆 Professional Highlights
 
-- 🚀 **AI Engineer @ Tribute Labs**: Built production AI systems for institutional investors and Fortune 100 clients, delivering end-to-end solutions spanning RAG, cloud infrastructure, and agentic workflows
+- 🚀 **Production AI for institutional investors**: At Tribute Labs, built production AI systems for institutional investors and Fortune 100 clients, delivering end-to-end solutions spanning RAG, cloud infrastructure, and agentic workflows
 - 🏛️ **Palantir Foundry Certified**: Earned Foundry Aware certification covering ontology-driven application development, enterprise data modeling, and operational workflow design → [View Credential](https://verify.skilljar.com/c/5ajaegdfz82d)
 - 💡 **Deep Learning Researcher**: Published S&P 500 prediction models using LSTM & ARIMA → [arXiv](https://arxiv.org/abs/2501.17366) 
 - 🪙 **Web3 Builder**: Finalist @ Colosseum Hackathon | Shipped a Next.js + AI crypto dashboard → [Tabi](https://tabi-eight.vercel.app/)  
@@ -64,7 +64,7 @@ The most interesting work happens where customer needs, data, and software archi
 - 📄 [Current Resume](Prashant_Pilla_Resume.pdf)
 - 🏛️ [Palantir Foundry Aware Certified](https://verify.skilljar.com/c/5ajaegdfz82d)
 - 🔬 [Published Research: S&P 500 Forecasting using Deep Learning](https://arxiv.org/abs/2501.17366)
-- 💼 AI Engineer @ Tribute Labs
+- 🌐 [prashantpilla.com](https://prashantpilla.com)
 
 ---
 
@@ -80,13 +80,11 @@ The most interesting work happens where customer needs, data, and software archi
 
 ## 📬 Want to work with me?
 
-**I’m currently open to**:
+**I’m open to**:
 Full-time roles in:
 - AI Engineering
-- Software Engineering
 - Forward Deployed Engineering
-- Solutions Engineering
-- Developer Infrastructure
+- Software Engineering
 
 📫 Reach me → [pilla146@umn.edu](mailto:pilla146@umn.edu)
 
